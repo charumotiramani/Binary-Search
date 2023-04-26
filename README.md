@@ -3,7 +3,7 @@ Binary search is the search technique that works efficiently on sorted lists.
 Conditions for when to apply Binary Search in a Data Structure:  
 1.The data structure must be sorted.  
 2.Access to any element of the data structure takes constant time.  
-### Algorithm  
+### Syntax:
 mid = (low + high)/2  
 if (x == arr[mid])  
 return mid  
