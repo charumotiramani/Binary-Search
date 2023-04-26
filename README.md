@@ -12,3 +12,5 @@ low = mid + 1
 else // x is on the left side  
 high = mid - 1
 
+![image](https://static.javatpoint.com/ds/images/binary-search-algorithm2.png)
+
